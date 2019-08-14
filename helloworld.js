@@ -1,7 +1,3 @@
-const sumar = function(a,b,c){
-  return a+b
-	return
+if hola{
+  return k
 }
-if a+b >= 1{
-  return "hola"
-  }
