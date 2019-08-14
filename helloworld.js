@@ -1,7 +1,7 @@
 if hola{
   return k
 }
-function(a,b){
+function(a,b,c){
   return ya
 }
 function(a,b){
